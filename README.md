@@ -1,6 +1,8 @@
 # HandGestureClassify
 基于tensorflow的手势识别和分类
 
+博文地址：https://blog.csdn.net/yyyerica/article/details/80151473
+
 原手部检测代码源自： https://github.com/timctho/convolutional-pose-machines-tensorflow 
 
 分类代码参考： https://blog.csdn.net/Enchanted_ZhouH/article/details/74116823
